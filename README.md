@@ -13,6 +13,7 @@ Simple application allowing user to search for a movies and can see the details 
 
 https://636d2e202450d70087c40634--lighthearted-sunshine-bcbbbb.netlify.app/
 
+# Snapshot
 
 ![pic1](https://user-images.githubusercontent.com/76871214/201191161-9ebe2e75-6068-409a-9272-055c5909a96d.PNG)
 ![pic2](https://user-images.githubusercontent.com/76871214/201191329-51f85b62-0fa7-485d-80ba-a14373eb6fc7.PNG)
