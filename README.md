@@ -11,7 +11,7 @@ Simple application allowing user to search for a movies and can see the details 
 
 # Deployment on netlify
 
-https://636d2e202450d70087c40634--lighthearted-sunshine-bcbbbb.netlify.app/
+https://lighthearted-sunshine-bcbbbb.netlify.app/
 
 # Snapshot
 
